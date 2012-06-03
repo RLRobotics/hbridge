@@ -6,6 +6,6 @@ HBridge
 ==========
 Controle completo e independente para motores DC, controle de velocidade via PWM.
 
-
+Vídeo de um projeto que utiliza esta classe: https://www.facebook.com/photo.php?v=372125316169754
 http://www.rlrobotics.ind.br
 
